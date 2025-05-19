@@ -5,7 +5,7 @@ Library     OperatingSystem
 
 *** Variables ***
 ${YOUTUBE}          https://www.youtube.com
-${Video}            https://youtu.be/6HUThlEvHeQ?si=SyYvDvR--1ty1Bu4
+${Video}            ***
 ${wait}             10s
 ${file}             comentarios.txt
 
